@@ -2,6 +2,8 @@
 
 Welcome to **Tank Battle**, a classic console-based strategy game where two tanks engage in combat within a dynamic maze. Move, rotate, and fire — use strategy and precision to eliminate your opponent!
 
+![image](https://github.com/user-attachments/assets/db34b8de-c0db-4fb9-ac5f-07662a23cc95)
+
 ---
 
 ## 📋 Menu Options
@@ -94,4 +96,5 @@ Created by Roy Mar Chaim— 2025
 
 📜 License
 This project is licensed under the MIT License.
+
 
